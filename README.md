@@ -41,7 +41,7 @@ The average time taken by the drone to reach the emergency location is approxima
 11.The police department then runs through their registered car database and finds the person associated with the registered car. The police fetches the emergency contact information of the patient and sends an alert to the contact about the accident.
 12. Once the ambulance reaches the destination, the drone becomes available again and returns to its station.
 
-The object model of the system was created using the eco-system architecture. [Click here]() to refer to the object model of the system.
+The object model of the system was created using the eco-system architecture. [Click here](https://github.com/vasantivmahajan/Ambulance-Drone-Java-Swing-Application/blob/master/Object%20model.png) to refer to the object model of the system.
 
 ## Benefits:
 
